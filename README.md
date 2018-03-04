@@ -1,6 +1,6 @@
 # Linux on a Dell XPS 13 (touch screen)
 
-This is my guide on how I have set up my Dell XPS 13 (5690).
+This is my guide on how I have set up my Dell XPS 13 (9350).
 
 ## What Linux distro to choose?
 
