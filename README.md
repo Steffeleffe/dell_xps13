@@ -25,7 +25,7 @@ Pros:
 
 ## Native Citrix receiver
 
-The Native Citrix receiver has soem issues related with HiDPI displays. I got the receiver working on Linux Mint (Cinnamon), but the resolution was way off. The Windows client seems to have some options to scale the desktop, but apparently that option is not available on Linux.
+The Native Citrix receiver has some issues related with HiDPI displays. I got the receiver working on Linux Mint (Cinnamon), but the resolution was way off. The Windows client seems to have some options to scale the desktop, but apparently that option is not available on Linux.
 
 One guy suggest running the Citrix receiver via VirtualBox. See https://plutonsblog.wordpress.com/2017/01/22/citrix-receiver-on-a-4k-hidpi-laptop/.
 
