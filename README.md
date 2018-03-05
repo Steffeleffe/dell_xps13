@@ -22,6 +22,13 @@ Pros:
 * Scales perfectly out of the box.
 * Netflix works out of the box on Firefox.
 
+### Fedora (Gnome 3)
+
+Pros:
+* Scaling is good. Pretty nice interface out of the box.
+
+Cons:
+* Netflix doesn't work.
 
 ## Native Citrix receiver
 
