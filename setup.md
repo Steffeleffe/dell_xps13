@@ -18,3 +18,6 @@ This worked for me (firefox 57.0.4, Arch Linux):
 
     reboot and restart firefox
 
+## Right click on touch pad not working
+
+Just solved it (for me at least stuck_out_tongue) it was gnome, in dconf: org.gnome.desktop.peripherals.touchpad click-method 'fingers' need to be: org.gnome.desktop.peripherals.touchpad click-method 'areas' 
